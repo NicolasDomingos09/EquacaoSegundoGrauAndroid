@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="nome">Nicolas Domingos --- RA: 1110482322026</string>
+    <string name="alpha">Insira um número para A</string>
+    <string name="beta">Insira um número para B</string>
+    <string name="charlie">Insira um número para C</string>
+    <string name="calcular">Calcular</string>
+    <string name="resultados">Resultados</string>
+    <string name="limpar">Limpar</string>
+    <string name="delta">Delta: </string>
+    <string name="x1">X1: </string>
+    <string name="x2">X2: </string>
+    <string name="noRaiz">Não possui raízes reais </string>
+    <string name="naoE">Não é uma equação de segundo grau</string>
+</resources>
